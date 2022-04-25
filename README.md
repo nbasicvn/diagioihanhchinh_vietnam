@@ -8,3 +8,5 @@ Dữ liệu gồm có:
 - Đường, phường, xã (trong Quận / Huyện)
 
 Chúc các bạn học tập và nghiên cứu tốt!
+
+Vì dữ liệu nguồn cập nhật thay đổi, nên sắp tới mình sẽ phát triển công cụ quản lý kèm theo để các bạn có thể tự thêm và sửa khi cần!
